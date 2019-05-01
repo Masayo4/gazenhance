@@ -1,9 +1,10 @@
-# gazenhance made my massaman
+# gazenhance made by massaman
 ====  
 卒論用実装  
 
 ## Description(説明)
 「WebRTCにおける情報伝達と感情伝達の促進」をテーマに卒論を書く予定.
+
 実装物の保存
 ## Demo
 
@@ -29,6 +30,7 @@ Masayoshi Tsuruoka
 
 ## Reference
 dlibの使い方
+
 https://tech-blog.s-yoshiki.com/2018/10/702/
 
 
