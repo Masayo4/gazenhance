@@ -27,4 +27,9 @@ Masayoshi Tsuruoka
 (This page has a form for send email to me.)  
 [github](https://github.com/Masayo4)
 
+## Reference
+dlibの使い方
+https://tech-blog.s-yoshiki.com/2018/10/702/
+
+
 ## Progress
